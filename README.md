@@ -13,8 +13,8 @@ Output
 Usage: printscp [options] [file_path]
 Options:
   -x  Filter out loopback addresses.
-  -4  Print only ipv4 addresses.
-  -6  Print only ipv6 addresses.
+  -4  Print all ipv4 addresses.
+  -6  Print all ipv6 addresses.
   -h  --help Print this help.
 ```
 
